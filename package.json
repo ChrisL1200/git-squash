@@ -1,0 +1,14 @@
+{
+	"name": "git-test",
+	"version": "9.0.22",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"changelog": "node_modules/.bin/changelog"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"generate-changelog": "1.7.1"
+	}
+}
