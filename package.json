@@ -1,6 +1,6 @@
 {
 	"name": "git-test",
-	"version": "9.0.22",
+	"version": "9.0.5",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
